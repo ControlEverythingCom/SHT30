@@ -1,0 +1,7 @@
+{
+    "name": "SHT30",
+    "version": "0.0.2",
+    "author": "Travis Elliott <travis@controlanything.com>",
+    "license": "GNU",
+    "description": "This Library is intended for use with SHT30 Mini module on the Particle Core/Photon platform."
+}
