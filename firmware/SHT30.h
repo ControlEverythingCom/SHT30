@@ -12,5 +12,5 @@ public:
     
 private:
     int address = 0x44;
-    int buffer[6] = {0,0,0,0,0,0};
+    unsigned int buffer[6] = {0,0,0,0,0,0};
 };
